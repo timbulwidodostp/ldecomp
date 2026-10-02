@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p ldecomp Decomposes total effects in logistic regression into direct and indirect effects Use ldecomp With STATA 19
