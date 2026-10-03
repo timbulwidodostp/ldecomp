@@ -1,6 +1,8 @@
 # ldecomp
 Decomposes total effects in logistic regression into direct and indirect effects Use ldecomp With STATA 19
 
+https://www.youtube.com/watch?v=4t9Mc6VMjWw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
